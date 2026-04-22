@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CurveballMc.aternos.me
-",
+    "ip": "CurveballMc.aternos.me",
     "port": 11338,
     "version": "",
     "try-creative": false
